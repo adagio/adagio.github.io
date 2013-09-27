@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Drupal 8 Restful API & Services"
-date:   2013-09-25 12:58:17
+title: "Drupal 8 Restful API & Services"
+date: {}
 categories: drupal
 tags: rest
+published: true
 ---
 
 Here there is a good video tutorial by MediaCurrent about Restful API in Drupal 8 Core
 
 http://www.youtube.com/watch?v=TLHP9doaZ98
 
-I the tutorial, adsasd used [Dev HTTP Client Chrome App](https://chrome.google.com/webstore/detail/dev-http-client/aejoelaoggembcahagimdiliamlcdmfm) for making HTTP requests.
+In the tutorial, Peter Mallett used [Dev HTTP Client Chrome App](https://chrome.google.com/webstore/detail/dev-http-client/aejoelaoggembcahagimdiliamlcdmfm) for making HTTP requests.
 
 When requesting for entities (content), GET was used
 
