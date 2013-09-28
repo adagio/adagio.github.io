@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drupal 8 Restful API & Services"
-date: {}
+date: 2013-09-25 12:58
 categories: drupal
 tags: rest
 published: true
