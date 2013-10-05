@@ -7,7 +7,6 @@ categories: drupal
 tags: rest
 ---
 
-
 + [Drupal 8 RESTful Services, or webservices](http://www.mediacurrent.com/blog/drupal-8-restful-services)
 Other Mediacurrent contents about Drupal. Blog, Slideshare and Youtube.
 
