@@ -3,6 +3,7 @@ published: true
 layout: post
 date: "2013-10-13 12:00"
 tags: drupal
+title: "Researching Log. October 2013, 2nd week"
 ---
 
 ## Log about researching I've done this week
