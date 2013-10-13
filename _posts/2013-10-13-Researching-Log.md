@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+date: "2013-10-13 12:00"
+tags: "drupal, ux, wireframes, axure"
 ---
 
 ## Log about researching I've done this week
@@ -23,4 +26,3 @@ A Keynote in Spanish, about how to port to Drupal 8 a module that creates a Fiel
     + Drupal 8 Entity Field API, owned by Yves Chedemoise (yched)
 
 + [The Ten Commandments Of Efficient Design In Axure | Smashing UX Design](http://uxdesign.smashingmagazine.com/2013/10/04/ten-commandments-of-efficient-design-in-axure/)
-
