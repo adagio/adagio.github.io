@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: "2013-10-13 12:00"
 tags: "drupal, ux, wireframes, axure"
