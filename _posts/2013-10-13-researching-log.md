@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: "2013-10-13 12:00"
-tags: "drupal, ux, wireframes, axure"
+tags: drupal
 ---
 
 ## Log about researching I've done this week
