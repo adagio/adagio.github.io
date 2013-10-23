@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jump to recently accessed directories with Z script
+title: Jump to recently visited directories with Z script
 date: "2013-10-22 17:20"
 tags: "script, shell, command line"
 ---
