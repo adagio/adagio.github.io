@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Error Installing Magento 1.7
 date: "2014-03-02 18:08"
