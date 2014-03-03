@@ -19,8 +19,9 @@ Or our custom template (e.g. magento-foundation theme)
 There we need to **add an id** attribute to the following **fieldset** html element (this loads the payment methods):
 
     <fieldset>
-      <?php echo $this->getChildHtml('methods') ?>
+      <?php echo $this->getChildHtml('methods'); ?>
     </fieldset>
+
 
 Change it to the following code
 
