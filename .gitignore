@@ -3,3 +3,6 @@ _site
 Gemfile.lock
 stylesheets/custom.css.map
 /nbproject/private/
+nbproject/project.properties
+
+nbproject/project.xml
