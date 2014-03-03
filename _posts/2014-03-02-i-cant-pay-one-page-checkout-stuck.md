@@ -19,18 +19,18 @@ Or our custom template (e.g. magento-foundation theme)
 There we need to **add an id** attribute to the following **fieldset** html element (this loads the payment methods):
 
     <fieldset>
-      <?php echo $this->getChildHtml('methods') ?>
+        <?php echo $this->getChildHtml('methods') ?>
     </fieldset>
 
 Change it to the following code
 
     <fieldset id="checkout-payment-method-load">
-      <?php echo $this->getChildHtml('methods') ?>
+        <?php echo $this->getChildHtml('methods') ?>
     </fieldset>
 
 We have added this
 
-    **id="checkout-payment-method-load"**
+    id="checkout-payment-method-load"
 
 
 Source: [Can’t checkout on CE 1.8 - Magento Forum](http://www.magentocommerce.com/boards/viewthread/441003/)
