@@ -4,5 +4,8 @@ body div#container div.inner section#main_content h1 {
 body div#container div.inner section#main_content p.meta {
   font-size: 0.8em;
 }
+body div#container div.inner section#main_content div.post {
+  margin-top: 30px;
+}
 
 /*# sourceMappingURL=custom.css.map */
