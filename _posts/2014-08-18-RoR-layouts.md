@@ -14,4 +14,6 @@ title: Layouts in Ruby on Rails
 
 3. if we don't want to use that automatically association by name, then we can explicitly define the layout in the controller. This way:
 
+
     layout 'mylayout'
+
