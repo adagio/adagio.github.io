@@ -10,4 +10,4 @@ defaults:
       layout: "post"
       published: true
 
-exclude: [ params.json ]
+exclude: [ config.rb, Gemfile, params.json, README.md ]
