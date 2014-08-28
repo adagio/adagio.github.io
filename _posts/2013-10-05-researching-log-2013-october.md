@@ -1,6 +1,4 @@
 ---
-published: true
-layout: post
 date: "2013-10-05 11:58"
 title: "Researching Log, September 2013"
 ---

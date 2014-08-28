@@ -1,8 +1,11 @@
 ---
-published: true
-layout: post
 date: "2013-10-13 12:00"
-tags: drupal, drupalcamp, ux, axure, wireframes
+tags:
+- drupal
+- drupalcamp
+- ux
+- axure
+- wireframes
 title: "Researching Log. October 2013, 2nd week"
 ---
 

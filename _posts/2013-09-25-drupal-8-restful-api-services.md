@@ -1,10 +1,8 @@
 ---
-layout: post
 title: "Drupal 8 Restful API & Services"
 date: 2013-09-25 12:58
 categories: drupal
 tags: rest
-published: true
 ---
 
 Here there is a good video tutorial by MediaCurrent about Restful API in Drupal 8 Core

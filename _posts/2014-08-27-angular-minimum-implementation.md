@@ -1,6 +1,4 @@
 ---
-published: true
-layout: post
 date: "2014-08-27 23:03"
 categories: "AngularJS"
 title: AngularJS minimun implementation

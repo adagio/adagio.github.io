@@ -1,6 +1,4 @@
 ---
-published: true
-layout: post
 title: "I can't pay"
 date: "2014-03-02 18:20"
 categories: magento

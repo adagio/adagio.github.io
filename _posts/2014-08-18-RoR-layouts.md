@@ -1,6 +1,4 @@
 ---
-published: true
-layout: post
 date: "2014-08-18 14:15"
 categories: "Ruby on Rails"
 title: Layouts in Ruby on Rails
