@@ -2,11 +2,11 @@
 published: true
 layout: post
 date: "2014-08-27 23:03"
-categories: "Angular"
-title: Angular minimun implementation
+categories: "AngularJS"
+title: AngularJS minimun implementation
 ---
 
-## Angular minimun implementation
+## AngularJS minimun implementation
 
 - Declare the app name, as a module
 
