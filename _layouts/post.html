@@ -8,6 +8,8 @@ layout: default
 {{ content }}
 </div>
 
+{% if page.tags != empty %}
 <div class="tags">
-Tags: {{ page.tags | array_to_sentence_string }}
+	Tags: {{ page.tags | array_to_sentence_string }}
 </div>
+{% endif %}
