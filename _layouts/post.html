@@ -8,7 +8,7 @@ layout: default
 {{ content }}
 </div>
 
-{% if page.tags != empty %}
+{% if page.tags.any? %}
 <div class="tags">
 	Tags: {{ page.tags | array_to_sentence_string }}
 </div>
